@@ -1,11 +1,4 @@
-/*
-* CS 656 / Fall 20 / Apache / V2.00
-* Group: N7 / Leader: Nilesh (ns934)
-* Group Members: Mushir (ms2944), Unnit (ugp2)
-*
-*   ADC - add your code here
-*   NOC - do not change this
-*/
+
 
 import java.io.IOException;
 import java.io.InputStream;
